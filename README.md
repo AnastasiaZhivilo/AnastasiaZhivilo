@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnastasiaZhivilo
+- 👀 I’m interested in Data Science and Predictive Analytics
+- 🌱 I’m currently learning: Machine Learning
+- 📫 How to reach me: anastasia.zhivilo@gmail.com
